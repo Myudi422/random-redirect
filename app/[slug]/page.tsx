@@ -24,7 +24,7 @@ export default function RandomPage() {
   return (
     <main className="flex min-h-screen flex-col items-center justify-center p-24 bg-gray-900">
       <div className="text-center text-white">
-        <h1 className="text-2xl font-bold mb-4">Redirecting in {countdown} seconds...</h1>
+        <h1 className="text-2xl font-bold mb-4">loading {countdown} seconds...</h1>
         <div className="w-8 h-8 border-t-2 border-white rounded-full animate-spin mx-auto"></div>
       </div>
     </main>
