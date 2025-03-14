@@ -12,7 +12,7 @@ export default function RandomPage() {
       setCountdown((prev) => {
         if (prev <= 1) {
           clearInterval(timer)
-          router.push("https://www.effectiveratecpm.com/p8jurmh706?key=6cc0305857095ac7c34f2fc94b1bd791")
+          router.push("https://ptakeemsaifegro.net/4/9083631")
         }
         return prev - 1
       })
